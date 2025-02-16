@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<StiSerializer version="1.02" type="Net" application="StiDocument">
+  <ReportName>Report</ReportName>
+  <ReportAlias>Report</ReportAlias>
+  <ReportAuthor />
+  <ReportVersion>2019.4.2.0</ReportVersion>
+  <ReportDescription />
+  <ReportCreated>3/17/2024 10:36:26 PM</ReportCreated>
+  <RenderedWith>Net</RenderedWith>
+  <Unit Ref="1" type="in" isKey="true" />
+  <Pages isList="true" count="1">
+    <Page1 Ref="2" type="Page" isKey="true">
+      <PaperSize>Letter</PaperSize>
+      <PageWidth>8.5</PageWidth>
+      <PageHeight>11</PageHeight>
+      <Margins>0.39,0.39,0.39,0.39</Margins>
+      <br>None;Black;2;Solid;False;4;Black</br>
+      <bh>Transparent</bh>
+      <Components isList="true" count="10">
+        <item0 Ref="3" type="Text" isSer="true" name="Text9" text="Richmond Hill, ON L4C 7A2" ha="Center" va="Center" guid="10743773108e4cd2bea7e77af0fd7ded" pl="d.Panel1" rc="0.8,0,2.1,0.3" fn="Arial,10,Bold" tb="Black" bh="Transparent" />
+        <item1 Ref="4" type="Text" isSer="true" name="Text2" text="" ha="Center" va="Center" guid="5a621b81be3248d3a93e9abd33b19b5e" pl="d.Panel1" rc="5.9,-0.2,1.7,0.2" fn="Arial,11,Bold" tb="Black" bh="Transparent" />
+        <item2 Ref="5" type="Text" isSer="true" name="Text1" text="Invoice Number:" ha="Center" va="Center" pl="d.Panel1" rc="4.5,-0.2,1.2,0.2" fn="Arial,11,Bold" tb="Black" bh="Transparent" />
+        <item3 Ref="6" type="Text" isSer="true" name="Text7" text="Address:9218 Yong St Unit 102A" ha="Center" va="Center" guid="c5e9e98b9dd542e09f6efc3b3bda09bf" pl="d.Panel1" rc="0.9,-0.2,2.1,0.3" fn="Arial,10,Bold" tb="Black" bh="Transparent" />
+        <item4 Ref="7" type="Text" isSer="true" name="Text8" text="(416) 587-0423" ha="Center" va="Center" guid="76cebcc484e44e21a13ee19f993fdf3c" pl="d.Panel1" rc="1,0.2,1.6,0.3" fn="Arial,10,Bold" tb="Black" bh="Transparent" />
+        <item5 Ref="8" type="Text" isSer="true" name="Text3" text="Date:" va="Center" guid="d396a72589be40cd97ed7300a14b2ea9" pl="d.Panel1" rc="4.5,0,0.7,0.2" fn="Arial,11,Bold" tb="Black" bh="Transparent" />
+        <item6 Ref="9" type="Text" isSer="true" name="Text4" text="" ha="Center" va="Center" guid="6b8c9927cc7047ee9a9cbe7291094e79" pl="d.Panel1" rc="5.9,0,1.8,0.2" fn="Arial,11,Bold" tb="Black" bh="Transparent" />
+        <item7 Ref="10" type="Text" isSer="true" name="Text5" text="Customer Name:" va="Center" guid="57f11431c1794a51bc281619fe82b270" pl="d.Panel1" rc="4.5,0.2,1.3,0.2" fn="Arial,11,Bold" tb="Black" bh="Transparent" />
+        <item8 Ref="11" type="Text" isSer="true" name="Text6" text="" ha="Center" va="Center" guid="87599149bcbc44f2b60c0f3f614932ea" pl="d.Panel1" rc="5.9,0.2,1.7,0.2" fn="Arial,11,Bold" tb="Black" bh="Transparent" />
+        <Image1 Ref="12" type="Image" isKey="true">
+          <Margins>0,0,0,0</Margins>
+          <bh>Transparent</bh>
+          <ImageBytesToDraw>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</ImageBytesToDraw>
+          <Stretch>True</Stretch>
+          <Conditions isList="true" count="0" />
+          <ClientRectangle>0,-0.2,0.7,0.7</ClientRectangle>
+          <Name>Image1</Name>
+          <ComponentPlacement>d.Panel1</ComponentPlacement>
+        </Image1>
+      </Components>
+      <Guid>aa487450fde246bab598d2a1921c6358</Guid>
+      <Conditions isList="true" count="0" />
+      <Name>Page1</Name>
+    </Page1>
+  </Pages>
+  <Variables isList="true" count="3">
+    <value>,InvoiceNum,InvoiceNum,,System.String,,False,False,False,False</value>
+    <value>,Date,Date,,System.String,,False,False,False,False</value>
+    <value>,CustName,CustName,,System.String,,False,False,False,False</value>
+  </Variables>
+  <Resources isList="true" count="0" />
+  <Styles isList="true" count="0" />
+  <Guid>be42aeaf362b4e20a6dbbf2a5e0cf070</Guid>
+  <Bookmark Ref="13" type="Bookmark" isKey="true">
+    <Bookmarks isList="true" count="0" />
+    <text>Report</text>
+    <Engine>EngineV2</Engine>
+  </Bookmark>
+</StiSerializer>

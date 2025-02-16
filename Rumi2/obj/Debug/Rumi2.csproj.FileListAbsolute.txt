@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Rumi\Rumi2\bin\Debug\Rumi2.exe.config
+C:\Users\Admin\source\repos\Rumi\Rumi2\bin\Debug\Rumi2.exe
+C:\Users\Admin\source\repos\Rumi\Rumi2\bin\Debug\Rumi2.pdb
+C:\Users\Admin\source\repos\Rumi\Rumi2\obj\Debug\Rumi2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Rumi\Rumi2\obj\Debug\Rumi2.Properties.Resources.resources
+C:\Users\Admin\source\repos\Rumi\Rumi2\obj\Debug\Rumi2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Rumi\Rumi2\obj\Debug\Rumi2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Rumi\Rumi2\obj\Debug\Rumi2.exe
+C:\Users\Admin\source\repos\Rumi\Rumi2\obj\Debug\Rumi2.pdb

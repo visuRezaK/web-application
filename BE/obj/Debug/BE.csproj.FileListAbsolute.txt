@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\RUMI\BE\bin\Debug\BE.dll
+C:\Users\Admin\source\repos\RUMI\BE\bin\Debug\BE.pdb
+C:\Users\Admin\source\repos\RUMI\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RUMI\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RUMI\BE\obj\Debug\BE.dll
+C:\Users\Admin\source\repos\RUMI\BE\obj\Debug\BE.pdb
